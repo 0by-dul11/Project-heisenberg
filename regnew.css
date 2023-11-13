@@ -159,6 +159,9 @@ nav{
     margin-right: 20%;
 }
 
+.new{
+    text-align: center;
+}
 .reginp{
     margin-bottom: 1.5rem;
     display: flex;

@@ -158,14 +158,7 @@ nav{
 .logo{
     text-align: center;
 }
-.nav-lower {
-    min-height: 10vh;
-    background-color: var(--secondary-color);
-    font-weight: bolder;
-  }
-  .nav__brand {
-    font-size: 2rem;
-  }
+
 
 
 /*navbar end*/
@@ -243,21 +236,7 @@ main{
 .learn-more{
     color:blueviolet ;
 }
-/*pagination start*/
-.pagination{
-    display: flex;
-    justify-content: center;
-    align-items:center ;
-}
-.pagination_btn{
-    border-width: 1px 1px 1px 0;
-    border-style: solid;
-}
-.pagination_btn:first-child{
-    border-width: 1px 1px 1px 1px;
-    border-style: solid;
-}
-/*pagination end*/
+
 /*most product start*/
 .Most_sell{
     display: flex;
